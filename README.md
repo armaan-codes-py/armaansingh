@@ -46,7 +46,7 @@ A responsive website built with HTML, CSS, and JavaScript to learn web fundament
 
 📫 Contact
 
-📧 Email: armaan.6102007@gmail.com
+📧 Email: armaansingh.sandhu610@gmail.com
 
 ⚡ Goal
 
